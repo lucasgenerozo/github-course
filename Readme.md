@@ -1,6 +1,6 @@
 # Git Course
 
-jorgdkfosajfoaje
+jorge
 
 Este é um repositório teste para ensinar como o Git funciona.
 
